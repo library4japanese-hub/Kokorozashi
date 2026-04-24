@@ -1,0 +1,51 @@
+# render.yaml — one-click deploy for Kokorozashi on Render free tier
+# Docs: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: kokorozashi-api
+    runtime: node
+    plan: free
+
+    # Build steps
+    buildCommand: npm install && npm run build
+
+    # Start the Express server (tsx handles TypeScript at runtime)
+    startCommand: npx tsx server.ts
+
+    # Health check — Render pings this to know the service is up
+    healthCheckPath: /api/health
+
+    # Auto-deploy whenever you push to main
+    autoDeploy: true
+
+    # Environment variables — fill these in the Render dashboard
+    # (never commit real secrets to this file)
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+      - key: PORT
+        value: 3000
+
+      # Paste your Vercel frontend URL (and any preview URLs) here.
+      # Multiple origins: comma-separated, no spaces.
+      # e.g. https://kokorozashi.vercel.app,https://kokorozashi-git-main-yourteam.vercel.app
+      - key: ALLOWED_ORIGINS
+        sync: false          # means: set manually in dashboard, not synced from file
+
+      - key: GEMINI_API_KEY
+        sync: false
+
+      - key: SUPABASE_URL
+        sync: false
+
+      - key: SUPABASE_ANON_KEY
+        sync: false
+
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+
+      # Optional — only needed if you enable Stripe donations
+      - key: STRIPE_SECRET_KEY
+        sync: false
