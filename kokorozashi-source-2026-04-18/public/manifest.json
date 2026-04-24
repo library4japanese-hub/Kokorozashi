@@ -1,0 +1,22 @@
+{
+  "name": "Kokorozashi: JLPT Mastery",
+  "short_name": "Kokorozashi",
+  "description": "Premium AI-powered Japanese learning platform for JLPT mastery.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E27",
+  "theme_color": "#7000FF",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/kokorozashi-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/kokorozashi-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

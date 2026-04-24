@@ -1,0 +1,72 @@
+[
+    {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "company; corporation",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work; job; business",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "friend",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "cooking; cuisine",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "買い物",
+        "reading": "かいもの",
+        "meaning": "shopping",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "meaning": "walk; stroll",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "travel; trip",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "study",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    },
+    {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "practice; training",
+        "jlpt_level": "N4",
+        "context_hint": "Commonly used in N4 listening and reading sections."
+    }
+]

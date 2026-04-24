@@ -1,0 +1,5 @@
+{
+  "name": "Kokorozashi: JLPT Mastery",
+  "description": "Premium Japanese Mastery platform using AI-powered mnemonics, real-time study rooms, and interactive JLPT boss battles.",
+  "requestFramePermissions": ["microphone"]
+}

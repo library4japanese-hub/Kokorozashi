@@ -1,0 +1,47 @@
+[
+  {
+    "year": "2018",
+    "level": "N5",
+    "category": "Grammar",
+    "question": "田中さんは昨日、会社を休んだ（　）、風邪を引いたからです。",
+    "options": {
+      "A": "ので",
+      "B": "から",
+      "C": "のに",
+      "D": "が"
+    },
+    "correctAnswer": "A",
+    "explanation": "The sentence indicates a reason. '...休んだのは、...からです' is a common structure, but in this context, 'ので' connects the result to the reason.",
+    "distractors": ["から", "のに", "が"]
+  },
+  {
+    "year": "2015",
+    "level": "N4",
+    "category": "Vocabulary",
+    "question": "この本は、子供（　）わかりやすく書かれています。",
+    "options": {
+      "A": "に",
+      "B": "を",
+      "C": "で",
+      "D": "から"
+    },
+    "correctAnswer": "A",
+    "explanation": "The particle 'に' is used here to indicate the target audience (for children).",
+    "distractors": ["を", "で", "から"]
+  },
+  {
+    "year": "2019",
+    "level": "N3",
+    "category": "Reading",
+    "question": "昨日の試験は、思った（　）難しくなかったです。",
+    "options": {
+      "A": "より",
+      "B": "ほど",
+      "C": "くらい",
+      "D": "まで"
+    },
+    "correctAnswer": "B",
+    "explanation": "'思ったほど...ない' is a fixed expression meaning 'not as ... as I thought'.",
+    "distractors": ["より", "くらい", "まで"]
+  }
+]

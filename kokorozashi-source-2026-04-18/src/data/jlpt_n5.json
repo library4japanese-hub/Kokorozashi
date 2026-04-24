@@ -1,0 +1,72 @@
+[
+    {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I; me",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "student",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "teacher; master; doctor",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "日本語",
+        "reading": "にほんご",
+        "meaning": "Japanese language",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "本",
+        "reading": "ほん",
+        "meaning": "book",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "school",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": "to eat",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "to drink",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "to go",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    },
+    {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "to come",
+        "jlpt_level": "N5",
+        "context_hint": "Commonly used in N5 listening and reading sections."
+    }
+]
